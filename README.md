@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm Samuele, an italian software engineer
+I'm *Samuele*, an italian software engineer
 
 Here some info:
 - I’m working on a Desktop App + RP2040/ESP32 devices for productivity
